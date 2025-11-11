@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Igor 👋
 
-<!--
-**IgorKhnykin/IgorKhnykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate QA Automation Engineer who loves building reliable and efficient testing frameworks. My focus is on creating automation solutions from the ground up to help teams deliver high-quality software faster.
 
-Here are some ideas to get you started:
+### 🛠️ My Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automation & Backend:**  
+`Java` `Selenide` `Selenium` `RestAssured` `JUnit` `TestNG` `Maven` `Gradle` `SQL` `Camunda BPMN`
+
+**Tools & Platforms:**  
+`Jenkins` `TeamCity` `Git` `Bitbucket` `Postman` `Zephyr` `OpenShift` `Kubernetes`
+
+### 🚀 What I Do
+
+- I design and build test automation frameworks from scratch using **Java** and **Selenide**.
+- I integrate automated tests into **CI/CD** pipelines to get fast feedback.
+- I enjoy solving complex problems, like testing **BPMN workflows** and **Kafka** event streams.
+- I help improve team processes and mentor fellow engineers.
+
+### 📫 Let's Connect
+
+I'm always open to discussing new opportunities and interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/igor-khnykin/)
+[![Telegram](https://img.shields.io/badge/Telegram-Write%20me-blue?style=flat&logo=telegram)](https://web.telegram.org/k/#@igorkhnykin)
+
+
