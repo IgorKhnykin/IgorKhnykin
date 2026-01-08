@@ -5,7 +5,7 @@ I'm a passionate QA Automation Engineer who loves building reliable and efficien
 ### 🛠️ My Toolbox
 
 **Automation & Backend:**  
-`Java``TS/JS` `Playwright` `Selenide` `Selenium` `RestAssured` `JUnit` `TestNG` `Maven` `Gradle` `SQL` `Camunda BPMN`
+`Java` `TS/JS` `Playwright` `Selenide` `Selenium` `RestAssured` `JUnit` `TestNG` `Maven` `Gradle` `SQL` `Camunda BPMN`
 
 **Tools & Platforms:**  
 `Jenkins` `TeamCity` `Git` `Bitbucket` `Postman` `Zephyr` `OpenShift` `Kubernetes`
